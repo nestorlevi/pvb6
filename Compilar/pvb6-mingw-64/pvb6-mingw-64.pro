@@ -18,8 +18,8 @@ SUBDIRS += \
     ../../fake_qmake/fake_qmake.pro \
     ../../pvserver/pvsmt.pro \
     ../../pvdevelop/pvdevelop-with-qwt62.pro \
-    ../../language_bindings/lua/pvapplua/pvapplua.pro \
     ../../language_bindings/lua/lua-5.4.0/src/src.pro \
+    ../../language_bindings/lua/pvapplua/pvapplua.pro \
     ../../language_bindings/lua/pvslua/pvslua.pro \
     ../../pvbrowser/pvbrowser-with-basic-footprint.pro
 
